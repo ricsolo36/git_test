@@ -1,1 +1,2 @@
-This is Ricardo's firsst git project!
+This is Ricardo's first git project!
+
